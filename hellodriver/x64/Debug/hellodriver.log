@@ -1,0 +1,8 @@
+﻿  Building 'hellodriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Source.c
+  hellodriver.vcxproj -> C:\Users\Diego\source\repos\hellodriver\x64\Debug\hellodriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Diego\source\repos\hellodriver\x64\Debug\hellodriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
